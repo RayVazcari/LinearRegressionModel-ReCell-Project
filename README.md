@@ -1,17 +1,17 @@
-<h1><center><font size=10>Data Science and Business Analytics</center></font></h1>
-<center>Project 3 - Supervised Learning: Dynamic Pricing for ReCell</center></h1><p
-<center>Jorge Ramon Vazquez Campero</center></h1>
+<div align="center">
+
+<img src="assets/banner.svg" alt="Project 03: Recell Pricing Model" width="100%" />
+
+<a href="https://github.com/RayVazcari"><img src="https://img.shields.io/badge/PORTFOLIO-RayVazcari-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/PYTHON-07070f?style=for-the-badge&logo=python&logoColor=f9f002" alt="Python" />
+<img src="https://img.shields.io/badge/JUPYTER-07070f?style=for-the-badge&logo=jupyter&logoColor=ff2a6d" alt="Jupyter" />
+
+</div>
 
 **`| Supervised Learning | Linear Regression | Data Visualization | Statistical Analysis | Python | Data Cleaning | Univariate Analysis | Bivariate Analysis | Multivariate Analysis | Insights Generation |`**
 
 This project involved building a linear regression model to predict the price of used phones and tablets, based on various attributes. By analyzing the data and identifying significant factors, the goal was to develop a dynamic pricing strategy for ReCell, a startup in the refurbished device market. Throughout this project, I enhanced my skills in data preprocessing, statistical analysis, and machine learning model building, allowing me to uncover key insights and actionable recommendations for the business. This experience has significantly contributed to my growth as a data scientist, helping me to apply theoretical knowledge in a real-world scenario and gain valuable hands-on experience. 🚀
-
-<p align="left"> 
-  <a href="https://github.com/RayVazcari?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RayVazcari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow me on Github &logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rayvazcari/">
-    <img alt="Linkedin Profile" title="Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
-</p>
 
 ---
 
